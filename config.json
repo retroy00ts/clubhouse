@@ -1,0 +1,19 @@
+{
+  "club": {
+    "name": "retroDAO",
+    "description": "A club for all the Retro Apple glasses y00ts",
+    "colors": [
+      "#f51631",
+      "#ff7900",
+      "#ffb400",
+      "#33bf2b",
+      "#00a1e5",
+      "#a0339c"
+    ]
+  },
+  "traits": {
+    "Eyewear": [
+      "Retro Apple"
+    ]
+  }
+}
